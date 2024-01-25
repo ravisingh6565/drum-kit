@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    font-size: 5rem;
+    font-style: italic;
+    text-align: center;
+    font-style: unset;
+}
+button{
+    height: 100px;
+    width: 100px;
+    font-size: 3rem;
+    background-image: linear-gradient(blue,pink);
+}
+div{
+    height: auto;
+    width: auto;
+    margin-left: 250px;
+    
+}
